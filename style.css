@@ -330,7 +330,8 @@ color: white;
 }
 /*FOOTER*/
 footer{
-    background-color: #242424;
+    background-color: #2e31f1;
+    padding-bottom: 50px;
 }
 
 .footer__row{
@@ -342,8 +343,8 @@ footer{
 }
 
 .footer__logo--image{
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
 }
 .footer__social--link, .footer__copyright, .footer__logo--popper{
     color: white;
